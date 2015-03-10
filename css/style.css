@@ -1,0 +1,43 @@
+body {
+	font-family: 'Lato', sans-serif;
+	color: black;
+	font-weight: 300;
+}
+
+.text-muted{
+	color: #7A7A7A;
+	font-size: 200%;
+	font-weight: 600;
+	margin-bottom: 20px;
+}
+.text-thin{
+	font-weight:100;
+}
+.title-super {
+	font-size: 60px
+}
+
+.title-logo {
+	margin-top: 20px;
+}
+
+.line1 {
+	color: black;
+	background-color: black;
+	height: 5px;
+}
+
+.project {
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+
+.project_info {
+	margin-top: 20px;
+	font-size: 150%;
+}
+
+.center {
+	text-align: center;
+}
