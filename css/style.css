@@ -1,39 +1,56 @@
+
+/* Body Style */
+
 body {
-	font-family: 'Lato', sans-serif;
+	font-family: "lato", sans-serif;
 	color: black;
 	font-weight: 300;
 }
 
-.text-muted{
-	color: #7A7A7A;
-	font-size: 200%;
-	font-weight: 600;
-	margin-bottom: 20px;
-}
-.text-thin{
-	font-weight:100;
-}
-.title-super {
-	font-size: 60px
-}
+
+/* Header 1 */
 
 .title-logo {
 	margin-top: 20px;
 }
 
-.line1 {
+.text-thin {
+	font-weight:100;
+}
+
+.title-super {
+	font-size: 60px
+}
+
+
+/* Line styling */
+
+.line-1 {
 	color: black;
 	background-color: black;
 	height: 5px;
 }
 
-.project {
+
+/* Header 2 */
+
+.text-muted {
+	color: #777;
+	font-size: 200%;
+	font-weight: 600;
+	margin-bottom: 20px;
+}
+
+
+/* Project Header 3 styles */
+
+.project-name {
 	text-align: center;
 	margin-top: 10px;
 	margin-bottom: 5px;
 }
 
-.project_info {
+.project-info {
 	margin-top: 20px;
 	font-size: 150%;
 }
